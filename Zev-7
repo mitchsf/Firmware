@@ -1,9 +1,2 @@
 v2.0.4
 Zev-7.bin
-
-Recent updates:
-- Hardware version selector: hold SW2 at power-on to cycle the version; shown on the first tube, then reboots into it
-- Version stored in its own permanent "Zsys" NVS namespace — survives factory reset
-- "Ruby" namespace is now security-only (accepts any valid Zev code + chip signature); variant no longer derived from the code
-- Under-lighting now present on all units
-- ver 0 = standard (neons swapped), ver 1 = neons not swapped
